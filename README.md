@@ -14,7 +14,7 @@
 - https://github.com/catchorg/Catch2
 - https://ps-group.github.io/cg/mmz01
 
-# Travis CI
-- https://github.com/dwyl/learn-travis/blob/master/README.ru-RU.md
+# Travis CI и AppVeyor
 - https://habr.com/ru/post/329264/
+- https://github.com/dwyl/learn-travis/blob/master/README.ru-RU.md
 - https://docs.travis-ci.com/user/tutorial/#to-get-started-with-travis-ci/
